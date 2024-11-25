@@ -5,7 +5,6 @@ This project is a speech recognition agent that interacts with a whiteboard serv
 ## Features
 
 - Start and stop voice recognition
-- Add text to the whiteboard
 - Clear the whiteboard
 - Hide and show labels on the whiteboard
 - Add images to the whiteboard
